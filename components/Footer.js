@@ -15,7 +15,7 @@ const Footer = () => {
             <a href="/"><img src="/logo.png" className='logo-layout'/></a>
 
             </h3>
-            <p className="mb-2"><FaPhoneAlt className="me-2" /> +1 (000) 000-0000</p>
+            <p className="mb-2"><FaPhoneAlt className="me-2" /><a href="tel: +1 (877) 912-5016 " className='text-decoration-none text-white'>+1 (877) 912-5016</a> </p>
             <p className="mb-2"><FaEnvelope className="me-2" /> info@amtraktrainticket.com</p>
             <p className="mb-2"><FaMapMarkerAlt className="me-2" /> California office</p>
             <p className="fw-bold mb-1">California</p>
