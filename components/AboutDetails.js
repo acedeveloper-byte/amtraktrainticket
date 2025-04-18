@@ -9,17 +9,13 @@ const AboutDetails = () => {
       <Container>
         <h2 className="mb-4 fw-bold text-center">About Us</h2>
         <p className="mb-3">
-          Welcome to our travel booking platform! We specialize in providing seamless travel experiences with
-          top-notch customer support and competitive pricing. Whether you're planning a romantic getaway to Paris,
-          a business trip to Tokyo, or a family vacation in New York, we’ve got you covered.
+          Welcome to <strong>AmtrakTrainTicket.com</strong>, your trusted online platform for booking affordable and reliable train travel in the United States. Since 2000, we have been committed to delivering seamless travel experiences with the best fares, easy-to-use tools, and exceptional customer service.
         </p>
         <p className="mb-3">
-          Our platform offers flexible search tools, real-time availability, and personalized travel deals. We're committed
-          to making your journey easy, affordable, and enjoyable—from search to final booking.
+          Whether you're planning a cross-country adventure, a weekend getaway, or a family vacation, AmtrakTrainTicket.com provides you with real-time train availability, flexible booking options, and personalized deals tailored to your needs. We work with top train operators to bring you the best routes, schedules, and prices.
         </p>
         <p className="mb-0">
-          With partnerships across airlines, railways, and tour operators, we ensure that you always get the best
-          options, all in one place. Travel smart, travel with us.
+          At AmtrakTrainTicket.com, we aim to make your travel as smooth and stress-free as possible. With our reliable services, expert support team, and customer-first philosophy, we are your go-to solution for all train travel bookings across the U.S. Start your journey with us today and travel smart!
         </p>
       </Container>
     </section>

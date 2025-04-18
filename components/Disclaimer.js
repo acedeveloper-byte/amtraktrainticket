@@ -9,17 +9,16 @@ const Disclaimer = () => {
       <Container>
         <h2 className="mb-4 fw-bold text-center">Disclaimer</h2>
         <p className="mb-3">
-          Welcome to our travel booking platform! We specialize in providing seamless travel experiences with
-          top-notch customer support and competitive pricing. Whether you're planning a romantic getaway to Paris,
-          a business trip to Tokyo, or a family vacation in New York, we’ve got you covered.
+          Welcome to <strong>AmtrakTrainTicket.com</strong>, your go-to platform for booking train travel across the United States. We provide reliable, affordable, and hassle-free train ticket booking services. Please note the following important terms and conditions regarding our services.
         </p>
         <p className="mb-3">
-          Our platform offers flexible search tools, real-time availability, and personalized travel deals. We're committed
-          to making your journey easy, affordable, and enjoyable—from search to final booking.
+          While we strive to provide accurate and up-to-date information, all details regarding train schedules, ticket availability, and pricing are subject to change without notice. We do not guarantee the accuracy, completeness, or timeliness of the information on this website.
+        </p>
+        <p className="mb-3">
+          **AmtrakTrainTicket.com** is an independent booking platform and is not affiliated with official Amtrak services. All trademarked names and logos are the property of their respective owners.
         </p>
         <p className="mb-0">
-          With partnerships across airlines, railways, and tour operators, we ensure that you always get the best
-          options, all in one place. Travel smart, travel with us.
+          By using our website, you acknowledge that we are not responsible for any delays, cancellations, or service interruptions caused by train operators. We recommend reviewing the terms and conditions of the service providers before booking your travel. 
         </p>
       </Container>
     </section>
@@ -27,4 +26,3 @@ const Disclaimer = () => {
 }
 
 export default Disclaimer
-

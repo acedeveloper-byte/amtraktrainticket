@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Disclaimer | AmtrakTrainTicket.com – Legal Terms and Conditions",
-  description: "Read the disclaimer for AmtrakTrainTicket.com. Learn about our legal terms, third-party links, liability limitations, and our non-affiliation with official Amtrak services.",
+  title: "Contact Us | AmtrakTrainTicket.com – Get in Touch Today",
+  description: "Need help with train bookings or inquiries? Contact AmtrakTrainTicket.com for customer support, ticket assistance, or custom itineraries. Call, email, or send us a message through our contact form.",
 };
 
 export default function RootLayout({ children }) {

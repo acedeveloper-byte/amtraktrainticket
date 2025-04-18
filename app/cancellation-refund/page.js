@@ -11,58 +11,50 @@ const Page = () => {
       <Header />
       <section className="py-5 bg-light">
         <Container>
-          <h1 className="mb-4 fw-bold text-center">Cancellation and Refund</h1>
+          <h1 className="mb-4 fw-bold text-center">Cancellation and Refund Policy</h1>
           <hr />
           <p>
-            At <strong>AmtrakTrainTicket.com</strong>, we respect your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we collect, use, and safeguard the information you provide when using our website and services.
+            At <strong>AmtrakTrainTicket.com</strong>, we aim to make your train booking experience smooth and flexible. We understand that plans can change, so we’ve outlined our cancellation and refund policy below to keep things clear and fair for all travelers.
           </p>
 
-          <h5 className="mt-4">1. Information We Collect</h5>
-          <p>We may collect the following types of information:</p>
+          <h5 className="mt-4">1. Cancellation Requests</h5>
+          <p>
+            You may request to cancel your train ticket by contacting our customer support team at <strong>info@amtraktrainticket.com</strong> or through your booking dashboard, if applicable. Cancellations must be made at least 24 hours prior to the scheduled departure time.
+          </p>
+
+          <h5 className="mt-4">2. Refund Eligibility</h5>
           <ul>
-            <li>Personal Information (name, email, phone number, billing details)</li>
-            <li>Travel information (destinations, preferences, travel dates)</li>
-            <li>Payment and transaction details</li>
-            <li>Device and browser information for analytics</li>
+            <li>Full or partial refunds are subject to the fare rules set by the railway service provider.</li>
+            <li>Refunds are not guaranteed for non-refundable or last-minute bookings.</li>
+            <li>Service fees and payment gateway charges are non-refundable.</li>
           </ul>
 
-          <h5 className="mt-4">2. How We Use Your Information</h5>
-          <p>We use your information to:</p>
-          <ul>
-            <li>Process train ticket bookings</li>
-            <li>Send confirmations and updates</li>
-            <li>Respond to your inquiries</li>
-            <li>Improve our website and customer service</li>
-            <li>Send promotional emails (only if opted-in)</li>
-          </ul>
-
-          <h5 className="mt-4">3. Data Security</h5>
+          <h5 className="mt-4">3. Refund Process</h5>
           <p>
-            We use industry-standard encryption and security protocols to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
+            If your ticket is eligible for a refund, we will process the amount to your original payment method within 7–10 business days. You will receive a confirmation email once the refund is initiated.
           </p>
 
-          <h5 className="mt-4">4. Cookies & Tracking</h5>
+          <h5 className="mt-4">4. No-Show Policy</h5>
           <p>
-            We use cookies and similar tracking technologies to enhance user experience, understand user behavior, and improve our services. You can control cookie preferences through your browser settings.
+            If you do not show up for your scheduled train without prior cancellation, no refund will be issued. Please cancel in advance to retain refund eligibility (if applicable).
           </p>
 
-          <h5 className="mt-4">5. Third-Party Disclosure</h5>
+          <h5 className="mt-4">5. Train Service Cancellations</h5>
           <p>
-            We do not sell, trade, or transfer your personal information to third parties, except as required to fulfill bookings or comply with legal obligations.
+            In case of train cancellations or rescheduling by the rail operator, we will assist you with rebooking options or process refunds as per the provider's policy. We are not responsible for delays or cancellations by the railway companies.
           </p>
 
-          <h5 className="mt-4">6. Your Rights</h5>
+          <h5 className="mt-4">6. Contact and Support</h5>
           <p>
-            You may request access to, correction of, or deletion of your personal data by contacting us at <strong>info@amtraktrainticket.com</strong>.
-          </p>
-
-          <h5 className="mt-4">7. Policy Updates</h5>
-          <p>
-            We may update this Privacy Policy from time to time. All updates will be posted on this page with the revised date.
+            For any questions or to request a cancellation, please reach out to our team at <strong>info@amtraktrainticket.com</strong>. We're here to help 24/7.
           </p>
 
           <p className="mt-4">
-            <strong>Effective Date:</strong> April 17, 2025
+            <strong>Note:</strong> AmtrakTrainTicket.com is an independent travel booking platform and is not affiliated with the official Amtrak train services.
+          </p>
+
+          <p className="mt-4">
+            <strong>Effective Date:</strong> April 18, 2025
           </p>
         </Container>
       </section>

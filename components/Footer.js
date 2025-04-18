@@ -36,7 +36,7 @@ const Footer = () => {
           <div className="col-md-4">
             <h5 className="fw-bold mb-3 border-bottom pb-1 d-inline-block">Support</h5>
             <ul className="list-unstyled">
-              <li><a href="#" className="text-white text-decoration-none">Contact</a></li>
+              <li><a href="/contact-us" className="text-white text-decoration-none">Contact</a></li>
               <li><a href="/privacy-policy" className="text-white text-decoration-none">Privacy Policy</a></li>
               <li><a href="/cancellation-refund" className="text-white text-decoration-none">Cancellation Refund</a></li>
             </ul>
